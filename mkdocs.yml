@@ -1,2 +1,8 @@
 site_name: UNL UAV
+nav:
+  - Home: index.md
+  - Teams: teams.md
+  - Creating Documentation: creating_docs.md
+  - Resources: resources.md
+  - About: about.md
 theme: readthedocs

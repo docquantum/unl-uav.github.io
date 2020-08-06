@@ -4,5 +4,5 @@ nav:
   - Teams: teams.md
   - Creating Documentation: creating_docs.md
   - Resources: resources.md
-  - About: about.md
+  - Credits: credits.md
 theme: readthedocs

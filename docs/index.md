@@ -1,5 +1,5 @@
-# Home
 ![](images/home_logo.png)
+# Home
 
 ## Who We Are
 

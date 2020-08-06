@@ -3,7 +3,7 @@
 Welcome to UNL Aerospace UAV IARC Team!
 
 Todo...
-![](images/background2.png)
+![](images/home_logo.png)
 
 ## The Story
 

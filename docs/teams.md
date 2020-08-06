@@ -5,5 +5,5 @@ For all the software work that goes into a UAV, it can't get off the ground with
 
 
 ## Software
-![](images/software_team.png)
+[comment]: <> (![](images/software_team.png))
 For the aerial vehicle to be “unmanned”, or fully autonomous, a big chunk of computer programs have to be written for and implemented to it. This is the task our Software Group is assigned to tackle. The programming language utilized is C++.

@@ -16,7 +16,7 @@ The Association for Unmanned Vehicle Systems International (AUVSI), the world's 
 
 The IARC is the longest running collegiate aerial robotics competition in the world, challenging competing teams to develop robotic aerial systems considered impossible for any robots currently owned by government or industry. The IARC proceeds in a series of 'missions', with teams continuing to attempt a particular mission for multiple years until one team succeeds and a new mission is started. Visit the IARC challenge at [www.aerialroboticscompetition.org](http://www.aerialroboticscompetition.org/).
 
-## Mission 9 Objective:
+## Mission 9 Objective
 1. Fly fully autonomous
 2. Use ONBOARD computing (no data links except for kill switch and safety pilot override)
 3. Avoid obstacles including:

@@ -13,4 +13,5 @@ This is a useful guide on how to start writing documentation. We will be using g
 Add all new documents in the ```/docs/``` directory. With the extension of ```.md```. Commit and push.
 
 ## Deploying
+There is a automated deploy.
 To deploy changes we need to use the mkdocs tool. You can download it [here](https://www.mkdocs.org/). Once you have the tool open the directory and use the command ```mkdocs gh-deploy``` to deploy the changes.

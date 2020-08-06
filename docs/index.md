@@ -1,13 +1,14 @@
 ![](images/home_logo.png)
 
+
 ## Who We Are
 
 There are many important sectors of the aerospace industry, and one of the fastest growing and most hyped is that of the 'drone', or more properly, 'unmanned aerial vehicle' or 'system'- a UAV or UAS. With the beginning of the UAV Team, the Aerospace Club has opened up the possibility of projects which are almost entirely software based, bringing the realms of cutting-edge aerospace development directly to students of Computer Science and Computer and Software Engineering at the University of Nebraska-Lincoln.
 
 ## What We Do
 
-The UNL Aerospace UAV IARC Team is comprised into two subteams focused on hardware and software. We aim to accomplish the Mission 9 objectives layed out by AUVSI IARC Mission 9 rules.
-
+The UNL Aerospace UAV IARC Team is comprised into two subteams focused on hardware and software. We aim to accomplish the Mission 9 objectives layed out by AUVSI IARC Mission 9 rules by building an unmanned aerial platform.
+![](images/drones.png)
 
 ## What is AUVSI IARC
 

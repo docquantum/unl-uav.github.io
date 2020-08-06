@@ -29,4 +29,4 @@ A link to the AUVSI IARC Mission 9 rules can be found here:  [MISSION 9 RULES](h
 
 ## License
 
-This website is released using [http://creativecommons.org/licenses/by/3.0/](Creative Commons Attribution) license.
+This website is released using [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license.

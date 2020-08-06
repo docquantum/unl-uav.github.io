@@ -25,3 +25,8 @@ b. Physical obstacles
 4. Conduct the mission successfully (replace the module and return home) under 9 minutes
 
 A link to the AUVSI IARC Mission 9 rules can be found here:  [MISSION 9 RULES](http://www.aerialroboticscompetition.org/rules.php)
+
+
+## License
+
+This website is released using [http://creativecommons.org/licenses/by/3.0/](Creative Commons Attribution) license.

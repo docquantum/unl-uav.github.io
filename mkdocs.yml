@@ -7,3 +7,6 @@ nav:
   - Resources: resources.md
   - Credits: credits.md
 theme: readthedocs
+site_description: Testing
+markdown_extensions:
+  - attr_list

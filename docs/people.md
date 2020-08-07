@@ -1,3 +1,3 @@
 ## People
 
-![](res/img/people/people.jpg =200x)
+![](res/img/people/andrew_face.jpg =200x)

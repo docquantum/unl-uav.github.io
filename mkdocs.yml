@@ -7,6 +7,6 @@ nav:
   - Resources: resources.md
   - Credits: credits.md
 theme: readthedocs
-site_description: Testing
+site_description: UNL Aerospace UAV IARC Team Page
 markdown_extensions:
   - attr_list

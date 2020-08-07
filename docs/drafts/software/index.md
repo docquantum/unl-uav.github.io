@@ -3,7 +3,7 @@
 Welcome to the software section!
 
 ## Table of Contents
-- Meet the Team
+- (Meet the Team)[teams]
 - FAQ
 - Resources
 - C++

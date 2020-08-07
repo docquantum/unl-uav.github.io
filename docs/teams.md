@@ -39,6 +39,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <hr>
 
 <center>
+![](res/img/people/gerson_face.png){: style="width:150px"}
+
+** Gerson Uriarte - Software Team Lead **
+</center>
+
+Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work with the software team to develop software that will be on the companion computer, controlling the UAS. Currently doing research at Nimbus Labs on campus.
+
+<hr>
+
+<center>
 ![](https://icon-library.com/images/facebook-user-icon/facebook-user-icon-22.jpg){: style="width:150px"}
 
 ** Name - Occupation **

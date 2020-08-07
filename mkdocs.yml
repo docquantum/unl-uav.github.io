@@ -2,8 +2,7 @@ site_name: Home - UNL UAV
 nav:
   - Home: index.md
   - Getting Started: welcome.md
-  - Subteams: teams.md
-  - People: people.md
+  - Teams: teams.md
   - Creating Documentation: creating_docs.md
   - Resources: resources.md
   - Credits: credits.md

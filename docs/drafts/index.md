@@ -1,3 +1,3 @@
 # Drafts
 
-Hey, you found our draft folder. You read the docs :*
+Hey, you found me. You read the docs :*

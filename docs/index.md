@@ -1,4 +1,4 @@
-![](images/home_logo.png)
+![](res/img/home_logo.png)
 
 
 ## Who We Are
@@ -9,10 +9,10 @@ There are many important sectors of the aerospace industry, and one of the faste
 
 The UNL Aerospace UAV IARC Team is comprised into two subteams focused on hardware and software. We aim to accomplish the Mission 9 objectives layed out by AUVSI IARC Mission 9 rules by building an unmanned aerial platform.
 
-![](images/drones.png)
+![](res/img/drones.png)
 
 ## What is AUVSI IARC
-![](images/iarc_logo.png)
+![](res/img/iarc_logo.png)
 
 The Association for Unmanned Vehicle Systems International (AUVSI), the world's largest nonprofit organization dedicated to the advancement of unmanned systems and robotics, represents corporations and professionals from more than 60 countries involved in industry, government and academia. AUVSI members work in the defense, civil and commercial markets. Visit AUVSI at [www.auvsi.org](https://www.auvsi.org/).
 

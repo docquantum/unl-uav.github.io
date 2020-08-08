@@ -29,3 +29,7 @@ Now that you have downloaded and are part of our primary means of communication,
 After reading these sections, make sure to visit the [Mission 9 Rules Link](http://www.aerialroboticscompetition.org/rules.php) to download and view the mission rules. Understanding the mission objectives, rules, and story is very important in understanding the scope of what type of work you will be doing, so make sure to read this document!
 
 ---
+
+## Administrative
+
+Todo. 

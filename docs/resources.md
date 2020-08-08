@@ -11,3 +11,5 @@ To join our slack contact me at [andrew_hossack@outlook.com](mailto:andrew_hossa
 <hr>
 
 _Additional resources can be found on the club's Google Drive and Box accounts._
+
+![Mission 9 Patch](res/img/UAV_PATCH.png)

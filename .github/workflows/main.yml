@@ -24,5 +24,3 @@ jobs:
       uses: mhausenblas/mkdocs-deploy-gh-pages@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        pip3 install mkdocs-git-revision-date-plugin

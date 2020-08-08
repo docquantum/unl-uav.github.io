@@ -29,3 +29,6 @@ After reading these sections, make sure to visit the [Mission 9 Rules Link](http
 
 <hr>
 
+## Administrative
+
+Todo. 

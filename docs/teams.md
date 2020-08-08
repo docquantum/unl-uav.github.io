@@ -24,7 +24,7 @@ For the aerial vehicle to be “unmanned”, or fully autonomous, a big chunk of
 ** Andrew Hossack - President ** 
 </center>
 
-Computer Engineering Undergrad. Works with Unmanned Aerial Systems (UAS), embedded electronics, IoT, and has a passion in space exploration and most things that fly. Has experience in leading a multidisciplinary research and development team.
+Hi Everyone! My name is Andrew Hossack, but some of you might know me as the "UAV Guy" on campus. I am the president of UAV IARC Team, and Secretary of Aerospace for the 20'-21' year. Currently a Junior working towards my B.S. in Computer Engineering, I have a passion in aerospace, IoT, and most things up in space or in the air. Currently I am employed as an E.E. intern at Honeybee Robotics - an awesome company who designs space mechanical and electrical systems! One word of advice is that you can do whatever you put your mind to, you just need to work hard and listen! Shoot for the stars!
 
 <hr>
 

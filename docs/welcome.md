@@ -18,3 +18,11 @@ After joining the UNL Aerospace slack, request to join the #uav-general channel,
 General meetings and subteam specific meetings will be held during the week to update on progress and to work. These meetings will be held in person or over Zoom. To download zoom go to the link here [Zoom Download](https://zoom.us/download).
 
 Zoom meeting invites will be sent out in the slack channel to attend remotely.
+
+<hr>
+
+## Mission Rules
+
+Now that you have downloaded and are part of our primary means of communication, the next step in the process is being knowledgeable of the mission rules and organizer website. Please read the **What is AUVSI IARC** subheading to know what our organizer is and does, in addition to the **Mission 9 Objective**  to understand the rules under the [Home](index.md) page. 
+
+After reading these sections, make sure to visit the [Mission 9 Rules Link](http://www.aerialroboticscompetition.org/rules.php) to download and view the mission rules. Understanding the mission objectives, rules, and story is very important in understanding the scope of what type of work you will be doing, so make sure to read this document!

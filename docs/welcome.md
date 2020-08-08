@@ -4,7 +4,8 @@ Welcome to our team! If you are reading this, it might mean that you are either 
 
 Outlined in this page are the basic steps for joining the team.
 
-<hr>
+---
+
 ## Team Communication
 
 Most team communication is done through Slack on the UNL Aerospace #uav-general channel. Team meetings will be held either in person or remote or both during the year. To make sure you are the most up to date with current communication, please download Slack and Zoom as outlined below.
@@ -19,7 +20,7 @@ General meetings and subteam specific meetings will be held during the week to u
 
 Zoom meeting invites will be sent out in the slack channel to attend remotely.
 
-<hr>
+---
 
 ## Mission Rules
 
@@ -27,7 +28,7 @@ Now that you have downloaded and are part of our primary means of communication,
 
 After reading these sections, make sure to visit the [Mission 9 Rules Link](http://www.aerialroboticscompetition.org/rules.php) to download and view the mission rules. Understanding the mission objectives, rules, and story is very important in understanding the scope of what type of work you will be doing, so make sure to read this document!
 
-<hr>
+---
 
 ## Administrative
 

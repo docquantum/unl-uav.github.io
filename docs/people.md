@@ -27,3 +27,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </center>
 
 Unmanned aircraft systems, or drones are no longer toys or hobby, these are now a tool for entry into dozens of lucrative careers. As a Certified Remote Pilot, my job is to manage unmanned aerial vehicle flight operations and make sure to practice all the procedures and policies from Federal Aviation Administration (FAA) to include standard flight and ground operations. Also, my primary tasks include building flight vehicle structure and related components as a support assistance to the hardware team.
+
+<hr>
+
+<center>
+![](res/img/people/gerson_face.png){: style="width:150px"}
+
+** Gerson Uriarte - Software Team Lead **
+</center>
+
+Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work with the software team to develop software that will be on the companion computer, controlling the UAS. Currently doing research at Nimbus Labs on campus. I want to go to med school but am passionate about technology and computers. I enjoy working on software and doing research.

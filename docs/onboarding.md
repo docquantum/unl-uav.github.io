@@ -23,7 +23,11 @@ For Mission 9, IARC is hosting the competition at Front Royal, Virginia. The com
 
 ## Helpful Links
 [IARC website](http://aerialroboticscompetition.org/index.php)
+
 [Mission 9 rules](http://aerialroboticscompetition.org/rules.php)
+
 [Slack desktop app download](https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app)
+
 [UAV website](https://unl-uav.github.io)
+
 [Aerospace website](http://unlaero.space/)

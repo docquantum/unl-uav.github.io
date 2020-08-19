@@ -14,6 +14,10 @@ Hi Everyone! My name is Andrew Hossack, but some of you might know me as the "UA
 ![](res/img/people/timothy_face.png){: style="width:150px"}
 
 ** Timothy Gibbons - Software Developer **
+
+[Website](https://root3287.site)
+
+<marquee>HAHA HTML GO BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR</marquee>
 </center>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

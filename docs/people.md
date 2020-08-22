@@ -11,7 +11,7 @@ Hi Everyone! My name is Andrew Hossack, but some of you might know me as the "UA
 <hr>
 
 <center>
-![](res/img/people/Mung.png){: style="width:150px"}
+![](res/img/people/mung_face.jpg){: style="width:150px"}
 
 ** Khawm Mung - Director of Development **
 </center>

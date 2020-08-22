@@ -17,7 +17,7 @@ You will be provided material to read for each one and then a quiz to take after
 
 When you receive this email, please forward it to [unl.aerospace.safety.training@gmail.com](mailto:unl.aerospace.safety.training@gmail.com)
 
-### Form to Submit
+### Forms to Submit
 
 - [Travelers Form](res/pdf/AerospaceTravelerForm.pdf)
 - [Lab Access](res/pdf/COVID_AerospaceLabAccess.pdf)

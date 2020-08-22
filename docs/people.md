@@ -3,10 +3,20 @@
 <center>
 ![](res/img/people/andrew_face.jpg){: style="width:150px"}
 
-** Andrew Hossack - President ** 
+** Andrew Hossack - President **
 </center>
 
 Hi Everyone! My name is Andrew Hossack, but some of you might know me as the "UAV Guy" on campus. I am the president of UAV IARC Team, and Secretary of Aerospace for the 20'-21' year. Currently a Junior working towards my B.S. in Computer Engineering, I have a passion in aerospace, IoT, and most things up in space or in the air. Currently I am employed as an E.E. intern at Honeybee Robotics - an awesome company who designs space mechanical and electrical systems! One word of advice is that you can do whatever you put your mind to, you just need to work hard and listen! Shoot for the stars!
+
+<hr>
+
+<center>
+![](res/img/people/Mung.png){: style="width:150px"}
+
+** Khawm Mung - Director of Development **
+</center>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <hr>
 

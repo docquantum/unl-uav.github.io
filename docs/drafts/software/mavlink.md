@@ -6,10 +6,10 @@ A maximum of 255 devices can be connected via the mavlink protocl, and it only u
 
 ### Different Messages
 
-![](res/img/AttitudeMessage.png){: style="width:150px"}
+![](/res/img/AttitudeMessage.png){: style="width:150px"}
 
--	The message above is an attitude message that can be used to communicate to the drone what you want it to act like. The messages function as a packet and every message is composed of the same commponents.
+The message above is an attitude message that can be used to communicate to the drone what you want it to act like. The messages function as a packet and every message is composed of the same commponents.
 
 ### Message Components
 
-![](res/img/MavlinkStructure.png){: style="width:150px"}
+![](/res/img/MavlinkStructure.png){: style="width:150px"}
